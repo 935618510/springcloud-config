@@ -1,0 +1,3 @@
+version: 2.0
+server: 
+  port: 30004
